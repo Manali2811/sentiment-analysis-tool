@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model cache (large files)
+.cache/
+huggingface/
+
+# Output images (optional to track)
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
